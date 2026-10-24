@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/steam-game-idler/steam-game-idler/blob/main/public/logo.png" width="80" alt="app logo">
+  <img src="https://github.com/zevnda/steam-game-idler/blob/main/src-tauri/icons/icon.png" width="80" alt="app logo">
 </div
 
 <div>
